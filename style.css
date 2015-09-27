@@ -1,4 +1,12 @@
-.portrait {
+.portrait, .projectscreen {
 	width: 100%;
 	height: 100%;
+}
+
+.projectscreen {
+	border: 1px solid rgba(0, 0, 0, .5);
+}
+
+p {
+	font-size: 1em;
 }
