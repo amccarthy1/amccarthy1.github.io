@@ -1,2 +1,2 @@
-# aem1269.github.io
+# amccarthy.me
 Personal Webpage
