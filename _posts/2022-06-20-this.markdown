@@ -1,0 +1,8 @@
+---
+layout: post
+title: This
+date: 2022-06-20 14:01:49 -0700
+categories: jekyll update
+---
+
+The first project here is this! This is a jekyll-based github pages site that I'm currently working on. Eventually it will have project descriptions for other projects too, and maybe a cool theme!
